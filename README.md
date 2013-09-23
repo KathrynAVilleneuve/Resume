@@ -121,9 +121,9 @@ It also adds a flag `impress.supported` that can be used in JavaScript to check 
 If in your custom JavaScript code you were using `goto()` function from impress.js API make sure to change it
 to `stepTo()`.
 
-If in your CSS you were using classes based on currently active step with `step-` prefix, such as `step-bored`
-(where `bored` is the id of the step element) make sure to change it to `impress-on-` prefix
-(for example `impress-on-bored`). Also in previous versions these classes were assigned to `#impress` element
+If in your CSS you were using classes based on currently active step with `step-` prefix, such as `step-artisan`
+(where `artisan` is the id of the step element) make sure to change it to `impress-on-` prefix
+(for example `impress-on-artisan`). Also in previous versions these classes were assigned to `#impress` element
 and now they are added to `body` element, so if your CSS code depends on this, it also should be updated.
 
 Same happened to `impress-not-supported` class name - it was moved from `#impress` element to `body`, so update

@@ -712,9 +712,9 @@ span.tiny {
 .impress-enabled .hint { display: block }
 
 /*
-    ... and we will show it when the first step (with id 'bored') is active.
+    ... and we will show it when the first step (with id 'artisan') is active.
 */
-.impress-on-bored .hint {
+.impress-on-artisan .hint {
     /*
         We remove the transparency and position the hint in its default fixed
         position.
