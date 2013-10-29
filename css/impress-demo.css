@@ -669,11 +669,8 @@ span.tiny {
     background: rgba(0,0,0,0.5);
     color: #A0A0A0;
     text-align: center;
-    
+        
     font-size: 40px;
-    text-align: center;
-    
-    font-size: 50px;
     padding: 20px;
     
     z-index: 100;
