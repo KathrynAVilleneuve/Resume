@@ -667,17 +667,13 @@ span.tiny {
     bottom: 100px;
     
     background: rgba(0,0,0,0.5);
-<<<<<<< HEAD
     color: #A0A0A0;
     text-align: center;
     
     font-size: 40px;
-=======
-    color: #EEE;
     text-align: center;
     
     font-size: 50px;
->>>>>>> 7398a183f620f0cdcf3d5e28884fe27b138bc9a5
     padding: 20px;
     
     z-index: 100;
@@ -719,15 +715,9 @@ span.tiny {
 .impress-enabled .hint { display: block }
 
 /*
-<<<<<<< HEAD
     ... and we will show it when the first step (with id 'artisan') is active.
 */
 .impress-on-artisan .hint {
-=======
-    ... and we will show it when the first step (with id 'bored') is active.
-*/
-.impress-on-bored .hint {
->>>>>>> 7398a183f620f0cdcf3d5e28884fe27b138bc9a5
     /*
         We remove the transparency and position the hint in its default fixed
         position.
