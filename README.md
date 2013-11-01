@@ -1,4 +1,4 @@
-Kathryn Villeneuve!
+Kathryn Villeneuve
 ==================
 
  I have worked in art related fields for over 20 years with a concentration on painting. 
